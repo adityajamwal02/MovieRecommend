@@ -18,8 +18,11 @@ Software: VS Code, Code Blocks, Jupyter, PyCharm
 Python Libraries: Numpy, Pandas, Os, Pickle, Streamlit, Requests, Internet resources for Dataset
 
 
-### Method 1: The vector space method
-### Method 2: Classification method
+### Method 1: The vector space method <br>
+
+### Method 2: Classification method <br>
+
+## RESULT
 
 ![image](https://user-images.githubusercontent.com/76657393/204439853-58d41b7f-d031-4e70-bd71-c1eb4c8602ed.png)
 
@@ -32,4 +35,4 @@ Python Libraries: Numpy, Pandas, Os, Pickle, Streamlit, Requests, Internet resou
 ![image](https://user-images.githubusercontent.com/76657393/204439983-c7e00943-b225-40b7-bb46-025c0a504ca8.png)
 
 
-#Content Based Recommender Using Cosine Similarity
+# Content Based Recommender Using Cosine Similarity
